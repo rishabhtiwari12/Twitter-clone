@@ -20,9 +20,6 @@ Twitter clone made using MERN Stack.
 
 ### Prerequisites
 
-- node
-- npm
-- mongodb
 
 1. Fork this repository
 2. Clone this repository
@@ -62,6 +59,4 @@ $ cd client
 $ npm start
 ```
 
-## License
 
-This project is made available under the MIT License.
