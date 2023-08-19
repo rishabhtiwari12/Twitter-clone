@@ -42,7 +42,7 @@ $ npm install
 1. Start mongodb locally
 
 ```
-$ mongod
+$ mongod   Added mongoatlas database link 
 ```
 
 2. Start the server
